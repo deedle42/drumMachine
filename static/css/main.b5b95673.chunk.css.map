@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACI,WAAY,CACZ,UAAW,CACX,WACJ,CAEA,cACI,UACJ,CAEA,gBACI,UAAW,CACX,iBACJ","file":"main.b5b95673.chunk.css","sourcesContent":["button {\n    height: 50px;\n    width: 70px;\n    margin: 10px;\n}\n\n#drum-display {\n    width: 25vw;\n}\n\n.drum-container {\n    width: 100%;\n    text-align: center;\n}"]}
