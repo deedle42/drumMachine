@@ -3,3 +3,12 @@ button {
     width: 70px;
     margin: 10px;
 }
+
+#drum-display {
+    width: 25vw;
+}
+
+.drum-container {
+    width: 100%;
+    text-align: center;
+}
